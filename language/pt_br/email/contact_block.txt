@@ -1,0 +1,6 @@
+
+O seguinte é um e-mail enviado para você de "{SITENAME}" para {FROM_USERNAME} pelo formulário de contato:
+
+----------
+
+{MESSAGE}
